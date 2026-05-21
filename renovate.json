@@ -4,6 +4,6 @@
     "config:best-practices",
     ":enableVulnerabilityAlerts",
     ":pinAllExceptPeerDependencies",
-    ":semanticCommits",
+    ":semanticCommits"
   ]
 }
